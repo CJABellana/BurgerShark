@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BurgerShark", "BurgerShark\BurgerShark.csproj", "{0066E242-A722-48D3-AE59-5C495898A4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0066E242-A722-48D3-AE59-5C495898A4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0066E242-A722-48D3-AE59-5C495898A4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0066E242-A722-48D3-AE59-5C495898A4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0066E242-A722-48D3-AE59-5C495898A4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B33CE83D-0D15-4832-82D4-032D89462060}
+	EndGlobalSection
+EndGlobal
